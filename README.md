@@ -2,6 +2,13 @@
 
 Welcome to **Ecology Project**! 🌍 This is a simple **learning project** developed in Unity. It features a basic map with movement mechanics, designed to showcase fundamental game development concepts.
 
+
+## 🎮 Gameplay Details 🎮
+
+- **Operating System**: Windows 🖥️
+- **Controls**: Mouse and Keyboard 🖱️⌨️
+- **Game Type**: 3D Game 🌍
+
 ## 🌟 Key Features 🌟
 
 - **Simple Map Navigation**: Explore a basic map with straightforward movement controls. 🗺️
