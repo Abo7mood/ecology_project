@@ -3,7 +3,7 @@
 
 Welcome to **Ecology Project**! 🌍 This is a simple **learning project** developed in Unity. It features a basic map with movement mechanics, designed to showcase fundamental game development concepts.
 
-![Game Preview](https://i.postimg.cc/wB9xLnYS/2024-12-10-111910.png)
+![Game Preview](https://i.postimg.cc/yYC5H5c3/2024-12-11-105326.png)
 
 
 ## 🎮 Gameplay Details 🎮
