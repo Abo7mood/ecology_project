@@ -6,6 +6,9 @@ Welcome to **Ecology Project**! 🌍 This is a simple **learning project** devel
 ![Game Preview](https://i.postimg.cc/yYC5H5c3/2024-12-11-105326.png)
 
 
+# Solo Project 🔥🔥🔥
+this project being made solo by me
+
 ## 🎮 Gameplay Details 🎮
 
 - **Operating System**: Windows 🖥️
