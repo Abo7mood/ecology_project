@@ -56,4 +56,4 @@ In the end, the hard work paid off. The client was thrilled with the result and 
 # 🎮 Demo 🎮
 --------------------------
 
-Try the playable demo here: [HitWithSpin Game Demo](https://abo-7mood.itch.io/ecology-project)
+Try the playable demo here: [Ecology Project Game Demo](https://abo-7mood.itch.io/ecology-project)
