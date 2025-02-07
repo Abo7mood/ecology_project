@@ -31,7 +31,7 @@ this project being made solo by me
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Abo7mood/Ecology_Project.git
+   git clone https://github.com/Abo7mood/ecology_project.git
    ```
 2. Open the project in Unity (version 2019.4.4f).
 3. Build and run the project on your PC.
@@ -92,7 +92,7 @@ Try the playable demo here: [Ecology Project Game Demo](https://abo-7mood.itch.i
 
 1. حمل المشروع:
    ```bash
-   git clone https://github.com/Abo7mood/Ecology_Project.git
+   git clone https://github.com/Abo7mood/ecology_project.git
    ```
 2. افتح المشروع في Unity (الإصدار 2019.4.4f).
 3. ابني وشغل اللعبة على جهازك.
